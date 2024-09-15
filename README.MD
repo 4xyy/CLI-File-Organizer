@@ -16,3 +16,9 @@ cd CLI-File-Organizer
 python3 -m venv .venv
 source .venv/bin/activate
 
+Usage
+python organize.py /path/to/directory
+Dry Run:
+python organize.py /path/to/directory --dry-run
+Undo Organization:
+python organize.py /path/to/directory --undo
