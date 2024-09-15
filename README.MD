@@ -11,7 +11,7 @@ A command-line tool to organize files in a directory by their type, with options
 ## Installation
 Clone the repository and set up a virtual environment:
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/CLI-File-Organizer.git
+git clone git@github.com:4xyy/CLI-File-Organizer.git
 cd CLI-File-Organizer
 python3 -m venv .venv
 source .venv/bin/activate
